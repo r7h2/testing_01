@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:16:08:05 -0600] "GET /01-simplemaven-servlets HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:16:08:05 -0600] "GET /01-simplemaven-servlets/ HTTP/1.1" 200 144 http-bio-8080-exec-3 25
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:16:08:05 -0600] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:16:11:02 -0600] "GET /01-simplemaven-servlets/MyServlet HTTP/1.1" 200 45 http-bio-8080-exec-6 4
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:16:17:57 -0600] "GET /01-simplemaven-servlets HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:16:17:57 -0600] "GET /01-simplemaven-servlets/ HTTP/1.1" 200 203 http-bio-8080-exec-3 29
+0:0:0:0:0:0:0:1 - - [23/Feb/2021:16:18:02 -0600] "GET /01-simplemaven-servlets/MyServlet HTTP/1.1" 200 45 http-bio-8080-exec-4 4
